@@ -1,7 +1,7 @@
 Package: welcome
 Type: Package
 Title: Welcomes you to R (and fixes a few base things)
-Version: 0.1.2
+Version: 2019.04.15
 Author: David Holstius
 Maintainer: David Holstius <dholstius@baaqmd.gov>
 Description: Welcomes you to R (and fixes a few base things)
@@ -10,7 +10,6 @@ Encoding: UTF-8
 LazyData: true
 Collate: 
     'packageTimestamp.R'
-    'view.R'
     'welcome_to.R'
     'zzz.R'
-RoxygenNote: 6.0.1
+RoxygenNote: 7.1.0
