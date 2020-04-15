@@ -2,10 +2,13 @@
 % Please edit documentation in R/welcome_to.R
 \name{welcome_to}
 \alias{welcome_to}
-\title{Welcome message and version/timestamp info}
+\title{welcome_to}
 \usage{
-welcome_to(pkg_name)
+welcome_to(pkgname)
+}
+\arguments{
+\item{pkgname}{(character) package name}
 }
 \description{
-Welcome message and version/timestamp info
+Print welcome message and package version/timestamp.
 }
